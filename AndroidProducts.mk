@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_ali.mk
+    $(LOCAL_DIR)/lineage_ali.mk
 
 COMMON_LUNCH_CHOICES := \
-    revengeos_ali-user \
-    revengeos_ali-userdebug \
-    revengeos_ali-eng
+    lineage_ali-user \
+    lineage_ali-userdebug \
+    lineage_ali-eng

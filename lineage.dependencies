@@ -1,0 +1,6 @@
+[
+    {
+        "repository": "android_kernel_motorola_sdm450",
+        "target_path": "kernel/motorola/sdm450"
+    }
+]
