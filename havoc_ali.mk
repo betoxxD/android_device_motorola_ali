@@ -32,6 +32,10 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_BOOT_ANIMATION_RES := 1080
 
+# device maintainer 
+PRODUCT_PROPERTY_OVERRIDES += \
+ 	ro.havoc.maintainer=betoxxD
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := ali
 PRODUCT_NAME := havoc_ali
